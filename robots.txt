@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /search/
+Disallow: /saved/
+Disallow: /my-project/
+
+Sitemap: https://clubceramic.com/sitemap.xml
